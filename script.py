@@ -15,6 +15,5 @@ if messagebox.askyesno(name, "Chceš se k nám připojit?"):
 else:
     root.destroy()
 
-
 # If script reach end...
 sys.exit(0)
