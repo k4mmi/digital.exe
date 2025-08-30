@@ -6,9 +6,15 @@ This it the sceriest exe file on the internet!!!
 ## How to compile this joke
 ### What you need?
 [pyinstaller](https://pyinstaller.org/en/stable/).
-### Script for compilation
+### Compilation
+Powershell
 ```
 pyinstaller --onefile --windowed --icon=icon.ico script.py
 ```
-
+### Rename
+Powershell/Bash
+```
+mv script.exe digitál.exe
+```
+### That's all
 Thanks for reading <3
