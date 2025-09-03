@@ -5,7 +5,7 @@ This it the sceriest exe file on the internet!!!
 
 ## How to compile this joke
 ### What you need?
-[pyinstaller](https://pyinstaller.org/en/stable/).
+[pyinstaller](https://pyinstaller.org/en/stable/)
 ### Compilation
 Powershell
 ```
