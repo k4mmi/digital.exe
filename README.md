@@ -1,5 +1,5 @@
 # digitál.exe
-This it the sceriest exe file on the internet!!! 
+This is the sceriest exe file on the internet!!! 
 
 ![Image](/assets/image_1.png)
 
